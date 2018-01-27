@@ -1,5 +1,5 @@
 # The golfscoreapp team presents
-<h1><strong>ParPal</strong></h1>
+<h1><strong>ParPal- Golf Score Keeper</strong></h1>
 To preview this project please visit https://parpal-test.herokuapp.com/
 
 # Brief: 
