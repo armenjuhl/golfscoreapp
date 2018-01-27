@@ -1,5 +1,6 @@
 # The golfscoreapp team presents
-
+<h1><strong>ParPal</strong></h1>
+To preview this project please visit https://parpal-test.herokuapp.com/
 
 # Brief: 
 This app will be used by Golfers and Golf Tournament directors to track and display player scores in real time which will increase tournament competition and transparency. 
@@ -71,5 +72,4 @@ How to get this working on your machine:
     12) After inputing scores for hole 18, the leaderboard will show total scores for round 1.
     Success!
 
-
-This file was last modified by Dan
+To preview this project please visit https://parpal-test.herokuapp.com/
