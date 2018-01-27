@@ -71,5 +71,3 @@ How to get this working on your machine:
     11) Now you can type the score for each of the players for each hole 1 through 18.
     12) After inputing scores for hole 18, the leaderboard will show total scores for round 1.
     Success!
-
-To preview this project please visit https://parpal-test.herokuapp.com/
